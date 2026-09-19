@@ -14,13 +14,13 @@
   {
     "name": "HardcoreV2.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/mods-v1/HardcoreV2.zip",
-    "sha256": "4A6FE57AB5BC4E61F4C42101AE2EB18516522C76F0B2AFC53A6C2B1F3FF9FB02",
+    "sha256": "83F5AF65E1E94C953E6BF82DA9DDA960274063D1CB7545069874506003E31623",
     "type": "resourcepack"
   },
   {
     "name": "HardcoreV3.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/mods-v1/HardcoreV3.zip",
-    "sha256": "931C70AD96623F54C12DA0FEB9472FDB8836BD6DACCADC723DF5E1AB892BE4AE",
+    "sha256": "D8534DABF025A05743169C0C4A5FDB8978E66E499B04C3BCFC3150BD7F62A1B3",
     "type": "resourcepack"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/mods-v1/menu.zip",
-    "sha256": "318B1860CD8991526F889A42DA21431AD751C21705D884AAACDA40EDEFB29314",
+    "sha256": "E4632CCE7C9229C3C799977E4EAC808FBD18251FA79171019CA1607FD8796995",
     "extractTo": "config/fancymenu"
   }
 ]
