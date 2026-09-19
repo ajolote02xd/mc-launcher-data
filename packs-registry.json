@@ -4,5 +4,11 @@
     "code": "ultrahardcore",
     "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/ultrahardcore/bg.png",
     "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/ultrahardcore/logo.png"
+  },
+  {
+    "name": "hardcore",
+    "code": "hardcoreultra",
+    "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hardcoreultra/bg.jpg",
+    "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hardcoreultra/logo.png"
   }
 ]
