@@ -1,1 +1,62 @@
-
+[
+  {
+    "name": "Owleaf Playback Mod 1.20.1 1.0.2.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/Owleaf.Playback.Mod.1.20.1.1.0.2.jar",
+    "sha256": "4CF9C67F8360D5892278838E81C9D6F41E461BAD1A751B0E1E0ACAB1C0576177",
+    "type": "mod"
+  },
+  {
+    "name": "morpher-1.0.8.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/morpher-1.0.8.jar",
+    "sha256": "E9B98FD35C308ED9DAA3FBB5ECA9D91F6CF0574ABF22477CD20563D511076E30",
+    "type": "mod"
+  },
+  {
+    "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "sha256": "E78686B92C3761EC26EB9D3C53EFDD3D6CA77981CBD3723995E1163B7103AE0B",
+    "type": "mod"
+  },
+  {
+    "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "sha256": "933E2A7E79C4594F965F7F7D00B1F28A98EC2A180AD8F9F90310A266FE5CF5D8",
+    "type": "mod"
+  },
+  {
+    "name": "fancymenu_forge_3.9.12_MC_1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/fancymenu_forge_3.9.12_MC_1.20.1.jar",
+    "sha256": "60AA6A94E0C021C989BBEA978EA6A233AC2E23E364F15825A8BEB7B5AB0B94CF",
+    "type": "mod"
+  },
+  {
+    "name": "worldedit-mod-7.2.15.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/worldedit-mod-7.2.15.jar",
+    "sha256": "17DB6B3E94F52D25426684663E1E1846823CBB7907F1C365AC329E5BC7BFAF2C",
+    "type": "mod"
+  },
+  {
+    "name": "voicechat-forge-1.20.1-2.5.27.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/voicechat-forge-1.20.1-2.5.27.jar",
+    "sha256": "B325358136ACB56930FFD976AD56B47D0DBCC7CDF86E12AAEC974682FD57E766",
+    "type": "mod"
+  },
+  {
+    "name": "geckolib-forge-1.20.1-4.8.4.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/geckolib-forge-1.20.1-4.8.4.jar",
+    "sha256": "4518779A31B6C2ABB92C98B5AD17EF3D60177DF68626BFC86C44DE2764913C2B",
+    "type": "mod"
+  },
+  {
+    "name": "Pehkui-3.8.2+1.20.1-forge.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/Pehkui-3.8.2+1.20.1-forge.jar",
+    "sha256": "54210F454C166F65A1BCBBFE4EA52E6F73E07844A793C7132F1AF4076A0F42FC",
+    "type": "mod"
+  },
+  {
+    "name": "fancymenu.zip",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/fancymenu.zip",
+    "sha256": "E092B00FF5B1A3745FB83696F1524296BBCECA333DAD0EE51C8FB2FF6C55C456",
+    "extractTo": "config/fancymenu"
+  }
+]
