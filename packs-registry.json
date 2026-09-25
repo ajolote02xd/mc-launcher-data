@@ -23,5 +23,13 @@
     "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/Dedsafio2/bg.png",
     "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/Dedsafio2/logo.png",
     "ip": "mc.zestian.co"
+  },
+  {
+    "name": "hormigeo",
+    "code": "hormigeo2",
+    "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hormigeo2/bg.png",
+    "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hormigeo2/logo.png",
+    "loader": "forge-1.20.1",
+    "ip": "mc2127394.fmcs.cloud"
   }
 ]
