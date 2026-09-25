@@ -54,6 +54,12 @@
     "type": "mod"
   },
   {
+    "name": "watermedia-2.1.22.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/mods-v1/watermedia-2.1.22.jar",
+    "sha256": "371099A59FCF71B74EC736F59057E81FA1B8DD8DE663D15218518AB180253039",
+    "type": "mod"
+  },
+  {
     "name": "fancymenu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/fancymenu.zip",
     "sha256": "E092B00FF5B1A3745FB83696F1524296BBCECA333DAD0EE51C8FB2FF6C55C456",
