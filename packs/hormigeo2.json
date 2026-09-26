@@ -62,7 +62,7 @@
   {
     "name": "fancymenu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/fancymenu.zip",
-    "sha256": "E092B00FF5B1A3745FB83696F1524296BBCECA333DAD0EE51C8FB2FF6C55C456",
+    "sha256": "8E6091B65D2B5005F0462CF86891C9F069820A186488CD099078A183DCBF6948",
     "extractTo": "config/fancymenu"
   }
 ]
