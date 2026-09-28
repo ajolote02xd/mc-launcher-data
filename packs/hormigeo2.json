@@ -60,6 +60,12 @@
     "type": "mod"
   },
   {
+    "name": "hormigeo-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/hormigeo-1.0.0-forge-1.20.1.jar",
+    "sha256": "C7DDA6F05DA575EDBB7E5F5E7FD8EF9F04C7F26359793785DA5F09301C519C2F",
+    "type": "mod"
+  },
+  {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/menu.zip",
     "sha256": "92B8C4567262DF0D73354D7433C1A63DB43103096334F2EC76DB45CDB8C4002E",
