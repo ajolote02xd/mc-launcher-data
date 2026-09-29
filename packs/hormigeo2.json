@@ -66,12 +66,6 @@
     "type": "mod"
   },
   {
-    "name": "drippyloadingscreen_forge_2.2.3_MC_1.20.1.jar",
-    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/drippyloadingscreen_forge_2.2.3_MC_1.20.1.jar",
-    "sha256": "3162569270B9D9566D75926240E9C74A60B3CE9CB5B710F9B8D303C33AFAC464",
-    "type": "mod"
-  },
-  {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/menu.zip",
     "sha256": "69AE99660C88B6F5089762B0B0F5CED058F6405816B7D8C6456309D6A7A7B59A",
