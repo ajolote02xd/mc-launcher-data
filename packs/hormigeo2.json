@@ -60,15 +60,21 @@
     "type": "mod"
   },
   {
+    "name": "embeddium-0.3.31+mc1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/embeddium-0.3.31+mc1.20.1.jar",
+    "sha256": "EED3D1325F2ACC2FD4E69BB495E5CCB91D962126AC5330F0582EBC2A3DAF47FB",
+    "type": "mod"
+  },
+  {
     "name": "hormigeo-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/hormigeo-1.0.0-forge-1.20.1.jar",
-    "sha256": "95BC9F8F38C6D4BE2655C050A38D089AB7ACA5E3D9DC40826EE474826A117BEC",
+    "sha256": "B96D19796EE2BC935806A006B2513B06B9C5FB631888728120768BC79B24DF46",
     "type": "mod"
   },
   {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/menu.zip",
-    "sha256": "69AE99660C88B6F5089762B0B0F5CED058F6405816B7D8C6456309D6A7A7B59A",
+    "sha256": "0F1942036B23B051D3E254A46BFCCF28F29B9F20DB552354F90EAABF1A0EB231",
     "extractTo": "config/fancymenu"
   }
 ]
