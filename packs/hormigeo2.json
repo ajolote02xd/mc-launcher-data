@@ -66,9 +66,15 @@
     "type": "mod"
   },
   {
+    "name": "xaerominimap-forge-1.20.1-26.5.0.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/xaerominimap-forge-1.20.1-26.5.0.jar",
+    "sha256": "B21E1B4A13DE533D0CF57D55969D5C83B3DA78E8BE44B93E76CDDEA9F6503D19",
+    "type": "mod"
+  },
+  {
     "name": "hormigeo-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/hormigeo-1.0.0-forge-1.20.1.jar",
-    "sha256": "C0AFCB97BD0B38EB9B0398DBE58F5CFBC2A06E4102045E753F90DA9F4A073632",
+    "sha256": "91424E1D8106C3B8BB376C067F4456BC74B292EEE6536709782BF5AD75D64701",
     "type": "mod"
   },
   {
