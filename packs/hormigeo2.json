@@ -74,13 +74,19 @@
   {
     "name": "hormigeo-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/hormigeo-1.0.0-forge-1.20.1.jar",
-    "sha256": "91424E1D8106C3B8BB376C067F4456BC74B292EEE6536709782BF5AD75D64701",
+    "sha256": "EA13DE1655221C5C5724592AC603C03E0BFA030ADD188949E6A772E14E83B795",
     "type": "mod"
   },
   {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/menu.zip",
-    "sha256": "0F1942036B23B051D3E254A46BFCCF28F29B9F20DB552354F90EAABF1A0EB231",
+    "sha256": "BFE29F26547BAF1631F23999909848B72A9BB6AF028400A252C70D35AE37BFA0",
     "extractTo": "config/fancymenu"
+  },
+  {
+    "name": "xaero.zip",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/hormigeo-v1/xaero.zip",
+    "sha256": "17D9CB54318E69C002630C6F92DFC43355F13116692EB7B5FB0D56A6B09AE949",
+    "extractTo": "config/xaero"
   }
 ]
