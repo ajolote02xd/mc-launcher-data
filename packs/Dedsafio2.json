@@ -2,7 +2,13 @@
   {
     "name": "dedsafio-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/dedsafio-1.0.0-forge-1.20.1.jar",
-    "sha256": "345F5DDADEDA91CB052028585C8CBC84720E7879A8383698248C7A08A1CA695C",
+    "sha256": "B312DDE53996254028DEE7739C09802CA9BB7F87B295E8396AEEA6C2E39219E7",
+    "type": "mod"
+  },
+  {
+    "name": "dedsafiogui-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/dedsafiogui-1.0.0-forge-1.20.1.jar",
+    "sha256": "88D46543367C6CD9EB4C88249E2101FAA3958002AFB9D08182E1AC7D3A0A9EEC",
     "type": "mod"
   },
   {
@@ -80,7 +86,7 @@
   {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/menu.zip",
-    "sha256": "1AE672DBC9D4264A086F657D2DC6BA167942871F7F564307BBA978E55D3EABE1",
+    "sha256": "D51976CE5139A423524E5CE7FAB0EBF37444DDEDF8C139EB2B73EDADBB9ECC82",
     "extractTo": "config/fancymenu"
   }
 ]
