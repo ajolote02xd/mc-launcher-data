@@ -84,6 +84,12 @@
     "type": "mod"
   },
   {
+    "name": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+    "sha256": "CF60E933CBF075C286F60EE259B2ED26DA053D1FEF1F4E23D88ADB0BB558BDE5",
+    "type": "mod"
+  },
+  {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/menu.zip",
     "sha256": "D51976CE5139A423524E5CE7FAB0EBF37444DDEDF8C139EB2B73EDADBB9ECC82",
