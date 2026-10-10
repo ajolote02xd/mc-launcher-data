@@ -2,13 +2,19 @@
   {
     "name": "dedsafio-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/dedsafio-1.0.0-forge-1.20.1.jar",
-    "sha256": "B312DDE53996254028DEE7739C09802CA9BB7F87B295E8396AEEA6C2E39219E7",
+    "sha256": "47AB76F5D789C713804439BC24B102B4193F63F638354534E867FC1A21262740",
     "type": "mod"
   },
   {
     "name": "dedsafiogui-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/dedsafiogui-1.0.0-forge-1.20.1.jar",
     "sha256": "88D46543367C6CD9EB4C88249E2101FAA3958002AFB9D08182E1AC7D3A0A9EEC",
+    "type": "mod"
+  },
+  {
+    "name": "dedsafioutils-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/dedsafioutils-1.0.0-forge-1.20.1.jar",
+    "sha256": "0A9961F90AC6B2165FE81896FF16F00262FB38BDD809AC930A3D43EE996F1012",
     "type": "mod"
   },
   {
@@ -90,9 +96,33 @@
     "type": "mod"
   },
   {
+    "name": "PuzzlesLib-v8.1.35-1.20.1-Forge.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/PuzzlesLib-v8.1.35-1.20.1-Forge.jar",
+    "sha256": "840703A5F0B9946508098DD64BEFA457AA91A833F631E31EBFF2EF6AADC8F092",
+    "type": "mod"
+  },
+  {
+    "name": "IllagerInvasion-v8.0.7-1.20.1-Forge.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/IllagerInvasion-v8.0.7-1.20.1-Forge.jar",
+    "sha256": "A5C3655171F31BE95C90B6E839D2B84E46636712B69A52D59E160C03520CFAB5",
+    "type": "mod"
+  },
+  {
+    "name": "the_bumblezone-7.14.0+1.20.1-forge.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/the_bumblezone-7.14.0+1.20.1-forge.jar",
+    "sha256": "F5A1B33BD8C342F1EC2940F352CAEA241CEC133ABB510CCB8EB53379483E4509",
+    "type": "mod"
+  },
+  {
+    "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/resourcefullib-forge-1.20.1-2.1.29.jar",
+    "sha256": "B13AFB95231D88E1CAEA5A045967E0FC291B29020B0D26AD39E6F9E9A551FEE8",
+    "type": "mod"
+  },
+  {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/menu.zip",
-    "sha256": "D51976CE5139A423524E5CE7FAB0EBF37444DDEDF8C139EB2B73EDADBB9ECC82",
+    "sha256": "4DEB5FDDD71DF80FD1972DA73F6A417C8D52DE4065EA395757AD0BF0E37DC5D7",
     "extractTo": "config/fancymenu"
   }
 ]
