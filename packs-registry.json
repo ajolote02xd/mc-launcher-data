@@ -1,12 +1,6 @@
 [
   {
     "name": "hardcore",
-    "code": "ultrahardcore",
-    "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/ultrahardcore/bg.png",
-    "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/ultrahardcore/logo.png"
-  },
-  {
-    "name": "hardcore",
     "code": "hardcore",
     "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hardcore/bg.jpg",
     "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hardcore/logo.png"
