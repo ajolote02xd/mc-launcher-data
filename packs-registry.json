@@ -19,5 +19,13 @@
     "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/hormigeo2/logo.png",
     "loader": "forge-1.20.1",
     "ip": "mc2127394.fmcs.cloud"
+  },
+  {
+    "name": "ajoloteBingo",
+    "code": "bingo",
+    "bg": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/bingo/bg.jpg",
+    "logo": "https://raw.githubusercontent.com/ajolote02xd/mc-launcher-data/main/packs/bingo/logo.png",
+    "loader": "forge-1.20.1",
+    "ip": "mc.zestian.co"
   }
 ]
