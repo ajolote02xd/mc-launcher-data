@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ajolote_bingo-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolote_bingo-1.0.0-forge-1.20.1.jar",
+    "sha256": "0F2178825210804ADD119B9CC0E0E5086C26EB0169C749B2384B74CD74B35DA4",
+    "type": "mod"
+  },
+  {
+    "name": "ajolotebingoutils-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotebingoutils-1.0.0-forge-1.20.1.jar",
+    "sha256": "A0E54F0F3DE125762BE4CA01833252BA48344EBE0532C59E3AA75244A3A0572D",
+    "type": "mod"
+  },
+  {
+    "name": "ajolotestudioutils-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotestudioutils-1.0.0-forge-1.20.1.jar",
+    "sha256": "9E9E8E5405ACCCF695B0D10EBE50A03F4770447C3BF87D6A3005C25BEEDCE3C3",
+    "type": "mod"
+  },
+  {
+    "name": "worldedit-mod-7.2.15.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/worldedit-mod-7.2.15.jar",
+    "sha256": "17DB6B3E94F52D25426684663E1E1846823CBB7907F1C365AC329E5BC7BFAF2C",
+    "type": "mod"
+  },
+  {
+    "name": "morpher-1.0.8.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/morpher-1.0.8.jar",
+    "sha256": "E9B98FD35C308ED9DAA3FBB5ECA9D91F6CF0574ABF22477CD20563D511076E30",
+    "type": "mod"
+  },
+  {
+    "name": "geckolib-forge-1.20.1-4.8.4.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/geckolib-forge-1.20.1-4.8.4.jar",
+    "sha256": "4518779A31B6C2ABB92C98B5AD17EF3D60177DF68626BFC86C44DE2764913C2B",
+    "type": "mod"
+  },
+  {
+    "name": "Pehkui-3.8.2+1.20.1-forge.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/Pehkui-3.8.2+1.20.1-forge.jar",
+    "sha256": "54210F454C166F65A1BCBBFE4EA52E6F73E07844A793C7132F1AF4076A0F42FC",
+    "type": "mod"
+  },
+  {
+    "name": "voicechat-forge-1.20.1-2.5.27.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/voicechat-forge-1.20.1-2.5.27.jar",
+    "sha256": "B325358136ACB56930FFD976AD56B47D0DBCC7CDF86E12AAEC974682FD57E766",
+    "type": "mod"
+  }
+]
