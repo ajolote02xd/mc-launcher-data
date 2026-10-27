@@ -46,5 +46,47 @@
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/voicechat-forge-1.20.1-2.5.27.jar",
     "sha256": "B325358136ACB56930FFD976AD56B47D0DBCC7CDF86E12AAEC974682FD57E766",
     "type": "mod"
+  },
+  {
+    "name": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/fancymenu_forge_3.7.0_MC_1.20.1.jar",
+    "sha256": "F473E8F82831F883853C25D12C47CE2F6E97C860775CCB9EA1F2D27ADC8EB1EA",
+    "type": "mod"
+  },
+  {
+    "name": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+    "sha256": "CF60E933CBF075C286F60EE259B2ED26DA053D1FEF1F4E23D88ADB0BB558BDE5",
+    "type": "mod"
+  },
+  {
+    "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "sha256": "E78686B92C3761EC26EB9D3C53EFDD3D6CA77981CBD3723995E1163B7103AE0B",
+    "type": "mod"
+  },
+  {
+    "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "sha256": "933E2A7E79C4594F965F7F7D00B1F28A98EC2A180AD8F9F90310A266FE5CF5D8",
+    "type": "mod"
+  },
+  {
+    "name": "Owleaf Playback Mod 1.20.1 1.0.2.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/Owleaf.Playback.Mod.1.20.1.1.0.2.jar",
+    "sha256": "4CF9C67F8360D5892278838E81C9D6F41E461BAD1A751B0E1E0ACAB1C0576177",
+    "type": "mod"
+  },
+  {
+    "name": "watermedia-2.1.22.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/watermedia-2.1.22.jar",
+    "sha256": "371099A59FCF71B74EC736F59057E81FA1B8DD8DE663D15218518AB180253039",
+    "type": "mod"
+  },
+  {
+    "name": "embeddium-0.3.31+mc1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/embeddium-0.3.31+mc1.20.1.jar",
+    "sha256": "EED3D1325F2ACC2FD4E69BB495E5CCB91D962126AC5330F0582EBC2A3DAF47FB",
+    "type": "mod"
   }
 ]
