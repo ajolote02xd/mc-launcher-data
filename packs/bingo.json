@@ -88,5 +88,11 @@
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/embeddium-0.3.31+mc1.20.1.jar",
     "sha256": "EED3D1325F2ACC2FD4E69BB495E5CCB91D962126AC5330F0582EBC2A3DAF47FB",
     "type": "mod"
+  },
+  {
+    "name": "menu.zip",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/menu.zip",
+    "sha256": "4B643C26E9C45E45C51C4000EEB083E4E8A18DE7295DF8BE7B5E8E7826E0EDA1",
+    "extractTo": "config/fancymenu"
   }
 ]
