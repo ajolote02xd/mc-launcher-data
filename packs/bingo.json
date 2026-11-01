@@ -1,11 +1,5 @@
 [
   {
-    "name": "ajolotestudioutils-1.0.0-forge-1.20.1.jar",
-    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotestudioutils-1.0.0-forge-1.20.1.jar",
-    "sha256": "9E9E8E5405ACCCF695B0D10EBE50A03F4770447C3BF87D6A3005C25BEEDCE3C3",
-    "type": "mod"
-  },
-  {
     "name": "worldedit-mod-7.2.15.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/Dedsafio2/worldedit-mod-7.2.15.jar",
     "sha256": "17DB6B3E94F52D25426684663E1E1846823CBB7907F1C365AC329E5BC7BFAF2C",
@@ -78,17 +72,24 @@
     "type": "mod"
   },
   {
+    "name": "ajolotestudioutils-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotestudioutils-1.0.0-forge-1.20.1.jar",
+    "sha256": "e7bd5b93ab5f6efa682a59cdeeaabf6d3888ecca88bf53df58daf57b32b77b79",
+    "size": 648064,
+    "type": "mod"
+  },
+  {
     "name": "ajolotebingoutils-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotebingoutils-1.0.0-forge-1.20.1.jar",
-    "sha256": "77258d46e4c5edf008a5dfdca9119740d1ef43b8e80fc2fc1aee426978775f6a",
-    "size": 700568,
+    "sha256": "908626633b85e0f1eaff81d7ac4d1d8b1c417e4805aff577bfc25e2c278d5d4a",
+    "size": 701182,
     "type": "mod"
   },
   {
     "name": "ajolote_bingo-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolote_bingo-1.0.0-forge-1.20.1.jar",
-    "sha256": "7d9538a584c43b220fd740f963e1f93eb338f7cb760a83ada545008ecc920405",
-    "size": 2777719,
+    "sha256": "cf193ca5050e4066942454b3bbd40a6180fd4105f4d4d301a1d1fc487341be36",
+    "size": 7718277,
     "type": "mod"
   },
   {
