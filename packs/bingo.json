@@ -90,13 +90,6 @@
     "type": "mod"
   },
   {
-    "name": "colorblindness-1.20.1-2.1.0.2.jar",
-    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/colorblindness-1.20.1-2.1.0.2.jar",
-    "sha256": "70a228ca61e89b395a9cbb58324f8ce3a565c7cb50100e3737a254d891671ec0",
-    "size": 17685,
-    "type": "mod"
-  },
-  {
     "name": "menu.zip",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/menu.zip",
     "sha256": "4B643C26E9C45E45C51C4000EEB083E4E8A18DE7295DF8BE7B5E8E7826E0EDA1",
