@@ -81,15 +81,15 @@
   {
     "name": "ajolotebingoutils-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotebingoutils-1.0.0-forge-1.20.1.jar",
-    "sha256": "908626633b85e0f1eaff81d7ac4d1d8b1c417e4805aff577bfc25e2c278d5d4a",
-    "size": 701182,
+    "sha256": "6dd94cd89429451768e69ef0200ac7aa474c90df8b27d5a75627f525c7bf08b1",
+    "size": 748034,
     "type": "mod"
   },
   {
     "name": "ajolote_bingo-1.0.0-forge-1.20.1.jar",
     "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolote_bingo-1.0.0-forge-1.20.1.jar",
-    "sha256": "cf193ca5050e4066942454b3bbd40a6180fd4105f4d4d301a1d1fc487341be36",
-    "size": 7718277,
+    "sha256": "751e448ab0dd0aedff33614cda529a65e7a239a498f9efe29db824ad663c954e",
+    "size": 11986672,
     "type": "mod"
   },
   {
