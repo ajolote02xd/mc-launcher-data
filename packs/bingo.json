@@ -79,17 +79,17 @@
     "type": "mod"
   },
   {
-    "name": "ajolotebingoutils-1.0.0-forge-1.20.1.jar",
-    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotebingoutils-1.0.0-forge-1.20.1.jar",
-    "sha256": "6dd94cd89429451768e69ef0200ac7aa474c90df8b27d5a75627f525c7bf08b1",
-    "size": 748034,
+    "name": "ajolote_bingo-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolote_bingo-1.0.0-forge-1.20.1.jar",
+    "sha256": "853748146dfa70ce802aa22c061a9161361b4fb1ab6af9ebacd70ab327dd0242",
+    "size": 12887358,
     "type": "mod"
   },
   {
-    "name": "ajolote_bingo-1.0.0-forge-1.20.1.jar",
-    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolote_bingo-1.0.0-forge-1.20.1.jar",
-    "sha256": "11d4dfda6cfc100ced9c934e6ae39337526d54ebbb6e1368cb3cb87bc78e9cb6",
-    "size": 12035558,
+    "name": "ajolotebingoutils-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/ajolote02xd/mc-launcher-data/releases/download/ajoloteBingo/ajolotebingoutils-1.0.0-forge-1.20.1.jar",
+    "sha256": "02023d74531ea93ab8c961fd81a5a995aa74b731bf2956bcaaec981768f5032a",
+    "size": 774959,
     "type": "mod"
   },
   {
